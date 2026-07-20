@@ -19,8 +19,6 @@ Python语言快速入门
 │
 ├── Pexl_5_1         #自定义 Python 函数模块
 │
-├── Python数学实验与建模.pdf                    #该 PDF 文件作为 Python 学习过程中的参考资料
-│
 ├── 第1章-Python语言快速入门-学习笔记.ipynb      #核心笔记
 │
 ├── 第1章-Python语言快速入门-学习笔记.html
